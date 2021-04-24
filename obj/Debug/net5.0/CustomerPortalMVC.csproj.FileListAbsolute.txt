@@ -1,0 +1,406 @@
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\appsettings.Development.json
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\appsettings.json
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.exe
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.deps.json
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.runtimeconfig.json
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.runtimeconfig.dev.json
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ref\CustomerPortalMVC.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.pdb
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.Views.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.Views.pdb
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Humanizer.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.csprojAssemblyReference.cache
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.AssemblyInfoInputs.cache
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.AssemblyInfo.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.csproj.CoreCompileInputs.cache
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorAssemblyInfo.cache
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorAssemblyInfo.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\staticwebassets\CustomerPortalMVC.StaticWebAssets.Manifest.cache
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\staticwebassets\CustomerPortalMVC.StaticWebAssets.xml
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\scopedcss\bundle\CustomerPortalMVC.styles.css
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.TagHelpers.input.cache
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.TagHelpers.output.cache
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorCoreGenerate.cache
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\EmptyMutualFund.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\EmptyStock.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\Login.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\ViewMutualFundDetails.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\ViewNetWorth.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\ViewStockDetails.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\BeforeLogin.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\DuringLogin.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\LoginLayout.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorTargetAssemblyInfo.cache
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorTargetAssemblyInfo.cs
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.Views.pdb
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.csproj.CopyComplete
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\ref\CustomerPortalMVC.dll
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.pdb
+E:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.genruntimeconfig.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.exe
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.deps.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.runtimeconfig.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.runtimeconfig.dev.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ref\CustomerPortalMVC.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.Views.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.Views.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Humanizer.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.csprojAssemblyReference.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.AssemblyInfoInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.AssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.csproj.CoreCompileInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorAssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\staticwebassets\CustomerPortalMVC.StaticWebAssets.Manifest.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\staticwebassets\CustomerPortalMVC.StaticWebAssets.xml
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\scopedcss\bundle\CustomerPortalMVC.styles.css
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.TagHelpers.input.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.TagHelpers.output.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorCoreGenerate.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\About.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\Contact.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\EmptyMutualFund.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\EmptyStock.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\Login.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\LoginAbout.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\LoginContact.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\LoginServices.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\Portfolio.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\Services.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\ViewMutualFundDetails.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\ViewNetWorth.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\ViewStockDetails.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\BeforeLogin.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\DuringLogin.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\LoginLayout.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorTargetAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorTargetAssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.Views.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.csproj.CopyComplete
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\ref\CustomerPortalMVC.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.genruntimeconfig.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\LoginIndex.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\appsettings.json
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.exe
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.deps.json
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.runtimeconfig.json
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.runtimeconfig.dev.json
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ref\CustomerPortalMVC.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.pdb
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.Views.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\CustomerPortalMVC.Views.pdb
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Humanizer.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.csprojAssemblyReference.cache
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.AssemblyInfoInputs.cache
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.AssemblyInfo.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.csproj.CoreCompileInputs.cache
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorAssemblyInfo.cache
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorAssemblyInfo.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\staticwebassets\CustomerPortalMVC.StaticWebAssets.Manifest.cache
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\staticwebassets\CustomerPortalMVC.StaticWebAssets.xml
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\scopedcss\bundle\CustomerPortalMVC.styles.css
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.TagHelpers.input.cache
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.TagHelpers.output.cache
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorCoreGenerate.cache
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\About.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\Contact.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\EmptyMutualFund.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\EmptyStock.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\Login.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\LoginAbout.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\LoginContact.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\LoginIndex.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\LoginServices.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\Portfolio.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\Services.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\ViewMutualFundDetails.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\ViewNetWorth.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Customer\ViewStockDetails.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\BeforeLogin.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\DuringLogin.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\LoginLayout.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorTargetAssemblyInfo.cache
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.RazorTargetAssemblyInfo.cs
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.Views.pdb
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.csproj.CopyComplete
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\ref\CustomerPortalMVC.dll
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.pdb
+C:\Portfolio-Management\CustomerPortalMVC\CustomerPortalMVC\CustomerPortalMVC\obj\Debug\net5.0\CustomerPortalMVC.genruntimeconfig.cache

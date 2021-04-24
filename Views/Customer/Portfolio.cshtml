@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Portfolio";
+    Layout = "~/Views/Shared/LoginLayout.cshtml";
+}
+
+<div class="container">
+    <div class="row ">
+        <div class="col-md-4"></div>
+        <div class="col-md-4">
+            <div class="btn-group">
+                <button type="button" class="btn btn-outline-primary">@Html.ActionLink("Stock", "ViewStockDetails","Customer")</button>
+                <button type="button" class="btn btn-outline-primary" >@Html.ActionLink("Mutual Funds", "ViewMutualFundDetails", "Customer")</button>
+                <button type="button" class="btn btn-outline-primary" >@Html.ActionLink("NetWorth", "ViewNetWorth", "Customer")</button>
+            </div>
+        </div>
+    </div>   
+</div>
