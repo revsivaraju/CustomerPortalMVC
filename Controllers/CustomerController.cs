@@ -37,7 +37,7 @@ namespace CustomerPortalMVC.Controllers
             {
                 StringContent content = new StringContent(JsonConvert.SerializeObject(customer), Encoding.UTF8, "application/json");
 
-                using (var response = await httpClient.PostAsync("http://localhost:50511/api/Authorization/authenticate/", content))
+                using (var response = await httpClient.PostAsync("http://52.154.243.228/api/Authorization/authenticate/", content))
                 {
                     string stringJWT = response.Content.ReadAsStringAsync().Result;
                     JWT jwt = JsonConvert.DeserializeObject<JWT>(stringJWT);
@@ -63,7 +63,7 @@ namespace CustomerPortalMVC.Controllers
             {
                 List<StockDetail> stockList = new List<StockDetail>();
 
-                string baseUrl = "http://localhost:50511";
+                string baseUrl = "http://52.154.243.228";
                 HttpClient httpClient = new HttpClient();
                 httpClient.BaseAddress = new Uri(baseUrl);
                 var contentType = new MediaTypeWithQualityHeaderValue("application/json");
@@ -81,7 +81,7 @@ namespace CustomerPortalMVC.Controllers
                 var customer = JsonConvert.DeserializeObject<PortfolioDetail>(apiResponse);
                 StringContent content = new StringContent(JsonConvert.SerializeObject(customer), Encoding.UTF8, "application/json");
 
-                var response2 = await httpClient.PostAsync("http://localhost:64855/api/CalculateNetWorth/GetStockByCustomer", content);
+                var response2 = await httpClient.PostAsync("http://52.185.64.154/api/CalculateNetWorth/GetStockByCustomer", content);
                 string apiresponse2 = await response2.Content.ReadAsStringAsync();
                 stockList = JsonConvert.DeserializeObject<List<StockDetail>>(apiresponse2);
 
@@ -108,7 +108,7 @@ namespace CustomerPortalMVC.Controllers
             {
                 List<MutualFundDetail> mutualFundList = new List<MutualFundDetail>();
 
-                string baseUrl = "http://localhost:50511";
+                string baseUrl = "http://52.154.243.228";
                 HttpClient httpClient = new HttpClient();
                 httpClient.BaseAddress = new Uri(baseUrl);
                 var contentType = new MediaTypeWithQualityHeaderValue("application/json");
@@ -126,7 +126,7 @@ namespace CustomerPortalMVC.Controllers
                 var customer = JsonConvert.DeserializeObject<PortfolioDetail>(apiResponse);
                 StringContent content = new StringContent(JsonConvert.SerializeObject(customer), Encoding.UTF8, "application/json");
 
-                var response2 = await httpClient.PostAsync("http://localhost:64855/api/CalculateNetWorth/GetMutualFundByCustomer", content);
+                var response2 = await httpClient.PostAsync("http://52.185.64.154/api/CalculateNetWorth/GetMutualFundByCustomer", content);
                 string apiresponse2 = await response2.Content.ReadAsStringAsync();
                 mutualFundList = JsonConvert.DeserializeObject<List<MutualFundDetail>>(apiresponse2);
 
@@ -150,7 +150,7 @@ namespace CustomerPortalMVC.Controllers
         {
             try
             {
-                string baseUrl = "http://localhost:50511";
+                string baseUrl = "http://52.154.243.228";
                 HttpClient httpClient = new HttpClient();
                 httpClient.BaseAddress = new Uri(baseUrl);
                 var contentType = new MediaTypeWithQualityHeaderValue("application/json");
@@ -168,7 +168,7 @@ namespace CustomerPortalMVC.Controllers
                 var customer = JsonConvert.DeserializeObject<PortfolioDetail>(apiResponse);
                 StringContent content = new StringContent(JsonConvert.SerializeObject(customer), Encoding.UTF8, "application/json");
 
-                var response2 = await httpClient.PostAsync("http://localhost:64855/api/CalculateNetWorth", content);
+                var response2 = await httpClient.PostAsync("http://52.185.64.154/api/CalculateNetWorth", content);
                 string apiresponse2 = await response2.Content.ReadAsStringAsync();
                 ViewBag.Value = JsonConvert.DeserializeObject<int>(apiresponse2);
                 return View();
@@ -193,7 +193,7 @@ namespace CustomerPortalMVC.Controllers
         {
             try
             {
-                string baseUrl = "http://localhost:50511";
+                string baseUrl = "http://52.154.243.228";
                 HttpClient httpClient = new HttpClient();
                 httpClient.BaseAddress = new Uri(baseUrl);
                 var contentType = new MediaTypeWithQualityHeaderValue("application/json");
@@ -207,7 +207,7 @@ namespace CustomerPortalMVC.Controllers
                     return View("Login");
                 }
 
-                var response2 = await httpClient.GetAsync("http://localhost:64855/api/CalculateNetWorth/sellStock/" + id);
+                var response2 = await httpClient.GetAsync("http://52.185.64.154/api/CalculateNetWorth/sellStock/" + id);
 
                 return RedirectToAction("ViewNetWorth");
             }
@@ -223,7 +223,7 @@ namespace CustomerPortalMVC.Controllers
         {
             try
             {
-                string baseUrl = "http://localhost:50511";
+                string baseUrl = "http://52.154.243.228";
                 HttpClient httpClient = new HttpClient();
                 httpClient.BaseAddress = new Uri(baseUrl);
                 var contentType = new MediaTypeWithQualityHeaderValue("application/json");
@@ -237,7 +237,7 @@ namespace CustomerPortalMVC.Controllers
                     return View("Login");
                 }
 
-                var response2 = await httpClient.GetAsync("http://localhost:64855/api/CalculateNetWorth/sellMutualFund/" + id);
+                var response2 = await httpClient.GetAsync("http://52.185.64.154/api/CalculateNetWorth/sellMutualFund/" + id);
 
                 return RedirectToAction("ViewNetWorth");
             }
