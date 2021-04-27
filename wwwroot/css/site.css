@@ -65,14 +65,23 @@ body {
    
 }
 #HomepageBody {
-    background-image: url('../Images/Home-bg.jpg');
+    /*background-image:url('../Images/Home-bg.jpg');*/
+    background-color:rgb(6,25,47);
+    /*background-color:darkblue;*/
     background-repeat: no-repeat;
     background-position: center;
     padding: initial;
 }
-/*#loginlayout {
-    background-image: url('../Images/login-bg.jpg');
+#HomepageBodyImage {
+    background-image:url('../Images/Home-bg.jpg');
+   
     background-repeat: no-repeat;
+    background-position: center;
+    padding: initial;
+}
+/*#loginbg {
+    background-color: darkblue;
+  
     background-position: center;
     padding: initial;
 }*/

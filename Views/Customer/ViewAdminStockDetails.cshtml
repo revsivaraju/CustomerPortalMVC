@@ -1,0 +1,48 @@
+﻿@model IEnumerable<CustomerPortalMVC.Models.DailyStockDetails>
+
+@{
+    ViewData["Title"] = "ViewAdminStockDetails";
+    Layout = "~/Views/Shared/LoginLayout.cshtml";
+}
+
+<center>
+    <div class="col-md-4">
+        <br /><h2 class="text-success">Available Stocks</h2><hr /><br />
+    </div>
+</center>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.StockId)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.StockName)
+            </th>
+            <th class="text-white">
+                @Html.DisplayNameFor(model => model.StockValue)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td class="text-white">
+                @Html.DisplayFor(modelItem => item.StockId)
+            </td>
+            <td class="text-white">
+                @Html.DisplayFor(modelItem => item.StockName)
+            </td>
+            <td class="text-white">
+                @Html.DisplayFor(modelItem => item.StockValue)
+            </td>
+            <td>
+                <a class="btn btn-primary" onclick="funstocks()">Buy</a>
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

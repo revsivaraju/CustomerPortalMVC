@@ -4,13 +4,14 @@
     ViewData["Title"] = "Login";
     Layout = "~/Views/Shared/DuringLogin.cshtml";
 }
+<link href="~/css/site.css" rel="stylesheet" />
 
 <div class="container">
     <h1 class="text-center text-success">Login</h1>
     <div class="row justify-content-md-center">
 
         <div class="col-md-4 text-white">
-        
+
             <form asp-action="Login" asp-controller="Customer" method="post">
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
@@ -28,9 +29,9 @@
                     <input type="submit" value="Login" class="btn btn-primary btn-block" />
                 </div>
             </form>
-            
+
         </div>
- 
+
     </div>
     <div class="container"><center><b class="text-warning">@ViewBag.Message</b></center></div>
 </div>

@@ -6,6 +6,11 @@
     <title>@ViewData["Title"] - CustomerPortalMVC</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <script type="text/javascript">
+        function preventBack() { window.history.forward(); }
+        setTimeout("preventBack()", 0);
+        window.onunload = function () { null };
+    </script>
     <link rel="stylesheet" href="~/css/style.css" />
     <script type="text/javascript">
         document.addEventListener("DOMContentLoaded", function () {
@@ -26,38 +31,45 @@
         });
         // DOMContentLoaded  end
     </script>
-    <script type="text/javascript">
-        function readyFun() {
-            alert("Please Login to access");
+    <script>
+        // Add active class to the current button (highlight it)
+        var header = document.getElementById("myDIV");
+        var btns = header.getElementsByClassName("btn");
+        for (var i = 0; i < btns.length; i++) {
+            btns[i].addEventListener("click", function () {
+                var current = document.getElementsByClassName("active");
+                current[0].className = current[0].className.replace(" active", "");
+                this.className += " active";
+            });
         }
     </script>
-
+    <style>
+        .active, .btn:hover {
+            background-color: azure;
+            color: white;
+        }
+    </style>
 </head>
-<body id="HomepageBody">
+<body id="HomepageBodyImage">
     <header>
-        <nav id="navbar_top" class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow mb-3 ">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow mb-3 " id="navbar_top">
             <div class="container">
                 <b class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">Portfolio</b>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <!-- ======= nav bar======= -->
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                         <ul class="navbar-nav flex-grow-1">
-                           <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Customer" asp-action="Index">Home</a></li>
-                            <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Customer" asp-action="About">About</a></li>
-                            <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Customer" asp-action="Services">Services</a></li>
-                            <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Customer" asp-action="Portfolio">Assets</a></li>
-                            <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Customer" asp-action="Contact">Contact</a></li>
-                            </ul>
-                </div>
-                <!-- =======nav bar ======= -->
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                     
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Customer" asp-action="Index">Home</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Customer" asp-action="About">About</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Customer" asp-action="Services">Services</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Customer" asp-action="Portfolio">Assets</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Customer" asp-action="Contact">Contact</a></li>
+                    </ul>
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link text-white btn btn-info" asp-area="" asp-controller="Customer" asp-action="Login">Login</a>
+                            <a class="nav-link text-white btn btn-info" asp-area="" asp-controller="Customer" asp-action="Logout">Logout</a>
                         </li>
                     </ul>
                 </div>
@@ -82,3 +94,4 @@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
+
