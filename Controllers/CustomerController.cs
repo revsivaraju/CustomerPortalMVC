@@ -49,7 +49,7 @@ namespace CustomerPortalMVC.Controllers
                     }
                     else
                     {
-                        ViewBag.Message = "Invalid Username or Password";
+                        ViewBag.Message = "Session Expired!! or Not Logged IN";
                         return View("Login");
                     }
                 }
@@ -74,7 +74,7 @@ namespace CustomerPortalMVC.Controllers
                 if (response.StatusCode == HttpStatusCode.Unauthorized || response.StatusCode == HttpStatusCode.NotFound)
                 {
                     HttpContext.Session.Clear();
-                    ViewBag.Message = "Invalid Username or Password";
+                    ViewBag.Message = "Session Expired!! or Not Logged IN";
                     return View("Login");
                 }
                 string apiResponse = await response.Content.ReadAsStringAsync();
@@ -96,7 +96,7 @@ namespace CustomerPortalMVC.Controllers
             catch (Exception)
             {
                 HttpContext.Session.Clear();
-                ViewBag.Message = "Session Expired!!";
+                 ViewBag.Message = "Session Expired!! or Not Logged IN";
                 return View("Login");
             }
         }
@@ -139,7 +139,7 @@ namespace CustomerPortalMVC.Controllers
                 if (response.StatusCode == HttpStatusCode.Unauthorized || response.StatusCode == HttpStatusCode.NotFound)
                 {
                     HttpContext.Session.Clear();
-                    ViewBag.Message = "Invalid Username or Password";
+                    ViewBag.Message = "Session Expired!! or Not Logged IN";
                     return View("Login");
                 }
                 string apiResponse = await response.Content.ReadAsStringAsync();
@@ -160,7 +160,7 @@ namespace CustomerPortalMVC.Controllers
             catch (Exception)
             {
                 HttpContext.Session.Clear();
-                ViewBag.Message = "Session Expired!!";
+                ViewBag.Message = "Session Expired!! or Not Logged IN";
                 return View("Login");
             }
         }
@@ -183,7 +183,7 @@ namespace CustomerPortalMVC.Controllers
                 if (response.StatusCode == HttpStatusCode.Unauthorized || response.StatusCode == HttpStatusCode.NotFound)
                 {
                     HttpContext.Session.Clear();
-                    ViewBag.Message = "Invalid Username or Password";
+                    ViewBag.Message = "Session Expired!! or Not Logged IN";
                     return View("Login");
                 }
                 string apiResponse = await response.Content.ReadAsStringAsync();
@@ -198,7 +198,7 @@ namespace CustomerPortalMVC.Controllers
             catch (Exception)
             {
                 HttpContext.Session.Clear();
-                ViewBag.Message = "Session Expired!!";
+                ViewBag.Message = "Session Expired!! or Not Logged IN";
                 return View("Login");
             }
         }
@@ -225,7 +225,7 @@ namespace CustomerPortalMVC.Controllers
                 var response = await httpClient.GetAsync("/api/Authorization/GetCustomerByEmail/" + HttpContext.Session.GetString("email"));
                 if (response.StatusCode == HttpStatusCode.Unauthorized || response.StatusCode == HttpStatusCode.NotFound)
                 {
-                    ViewBag.Message = "Invalid Username or Password";
+                    ViewBag.Message = "Session Expired!! or Not Logged IN";
                     return View("Login");
                 }
 
@@ -235,7 +235,7 @@ namespace CustomerPortalMVC.Controllers
             }
             catch (Exception)
             {
-                ViewBag.Message = "Session Expired!!";
+                ViewBag.Message = "Session Expired!! or Not Logged IN";
                 return View("Login");
             }
         }
@@ -255,7 +255,7 @@ namespace CustomerPortalMVC.Controllers
                 var response = await httpClient.GetAsync("/api/Authorization/GetCustomerByEmail/" + HttpContext.Session.GetString("email"));
                 if (response.StatusCode == HttpStatusCode.Unauthorized || response.StatusCode == HttpStatusCode.NotFound)
                 {
-                    ViewBag.Message = "Invalid Username or Password";
+                    ViewBag.Message = "Session Expired!! or Not Logged IN";
                     return View("Login");
                 }
 
@@ -265,7 +265,7 @@ namespace CustomerPortalMVC.Controllers
             }
             catch (Exception)
             {
-                ViewBag.Message = "Session Expired!!";
+                ViewBag.Message ="Session Expired!! or Not Logged IN";
                 return View("Login");
             }
         }
