@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -29,7 +29,7 @@
                 }
             });
         });
-       
+
 
         // DOMContentLoaded  end
     </script>
@@ -45,27 +45,114 @@
             });
         }
     </script>
-    <script>
-        function funstocks()
-        {
-            alert("This feature is not enabled yet!");
-        }
-    </script>
-     
-    <script>
-        function funIPO() {
-           
-            alert("NO IPO's Availabe!!!");
-        }
-    </script>
+    @*<script>
+            function funstocks() {
+                alert("This feature is not enabled yet!");
+            }
+        </script>*@
+
+    @*<script>
+            function funIPO() {
+
+                alert("NO IPO's Availabe!!!");
+            }
+        </script>*@
     <style>
         .active, .btn:hover {
             background-color: azure;
             color: white;
         }
     </style>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+    </script>
+    <script>
+        function funIPO(msg, myYes) {
+            var confirmBox = $("#confirm");
+            confirmBox.find(".message").text(msg);
+            confirmBox.find(".yes").unbind().click(function () {
+                confirmBox.hide();
+            });
+            confirmBox.find(".yes").click(myYes);
+            confirmBox.show();
+        }
+    </script>
+    <script>
+        function funstocks(msg, myYes) {
+            var confirmBox = $("#confirmadmin");
+            confirmBox.find(".message").text(msg);
+            confirmBox.find(".yes").unbind().click(function () {
+                confirmBox.hide();
+            });
+            confirmBox.find(".yes").click(myYes);
+            confirmBox.show();
+        }
+    </script>
+    <style>
+        #confirm {
+            display: none;
+            background-color: #514E61;
+            color: #FFFFFF;
+            border: 1px solid #aaa;
+            position: fixed;
+            width: 250px;
+            left: 50%;
+            margin-left: -100px;
+            padding: 6px 8px 8px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+        #confirmadmin {
+            display: none;
+            background-color: #514E61;
+            color: #FFFFFF;
+            border: 1px solid #aaa;
+            position: fixed;
+            width: 250px;
+            left: 50%;
+            margin-left: -100px;
+            padding: 6px 8px 8px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+
+            #confirm button {
+                background-color: #48E5DA;
+                display: inline-block;
+                border-radius: 5px;
+                border: 1px solid #aaa;
+                padding: 5px;
+                text-align: center;
+                width: 80px;
+                cursor: pointer;
+            }
+
+        #confirmadmin button {
+            background-color: #48E5DA;
+            display: inline-block;
+            border-radius: 5px;
+            border: 1px solid #aaa;
+            padding: 5px;
+            text-align: center;
+            width: 80px;
+            cursor: pointer;
+        }
+
+            #confirm .message {
+                text-align: left;
+            }
+        #confirmadmin .message {
+            text-align: left;
+        }
+    </style>
+
+
 </head>
 <body id="HomepageBody">
+
+
+
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow mb-3 " id="navbar_top">
             <div class="container">
@@ -82,16 +169,28 @@
                         <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Customer" asp-action="Portfolio">Assets</a></li>
                         <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Customer" asp-action="Contact">Contact</a></li>
                     </ul>
+
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
                             <a class="nav-link text-white btn btn-info" asp-area="" asp-controller="Customer" asp-action="Logout">Logout</a>
                         </li>
                     </ul>
+
+
                 </div>
             </div>
-        </nav>
+            <div id="confirmadmin">
+            <div class="message">This feature is not enabled yet!:(</div>
+            <button class="yes">OK</button>
+            </div>
+        </nav> 
+        
     </header>
 
+    <div id="confirm">
+        <div class="message">NO IPO's Available:(</div>
+        <button class="yes">OK</button>
+    </div>
     
 
     <div class="container">
