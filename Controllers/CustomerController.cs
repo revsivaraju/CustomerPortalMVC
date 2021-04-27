@@ -49,7 +49,7 @@ namespace CustomerPortalMVC.Controllers
                     }
                     else
                     {
-                        ViewBag.Message = "Session Expired!! or Not Logged IN";
+                        ViewBag.Message = "Invalid UserName OR Password";
                         return View("Login");
                     }
                 }
