@@ -45,11 +45,11 @@
             });
         }
     </script>
-    @*<script>
+    <script>
             function funstocks() {
                 alert("This feature is not enabled yet!");
             }
-        </script>*@
+        </script>
 
     @*<script>
             function funIPO() {
@@ -78,7 +78,7 @@
             confirmBox.show();
         }
     </script>
-    <script>
+     @*<script>
         function funstocks(msg, myYes) {
             var confirmBox = $("#confirmadmin");
             confirmBox.find(".message").text(msg);
@@ -88,7 +88,7 @@
             confirmBox.find(".yes").click(myYes);
             confirmBox.show();
         }
-    </script>
+    </script>*@
     <style>
         #confirm {
             display: none;
@@ -103,19 +103,7 @@
             box-sizing: border-box;
             text-align: center;
         }
-        #confirmadmin {
-            display: none;
-            background-color: #514E61;
-            color: #FFFFFF;
-            border: 1px solid #aaa;
-            position: fixed;
-            width: 250px;
-            left: 50%;
-            margin-left: -100px;
-            padding: 6px 8px 8px;
-            box-sizing: border-box;
-            text-align: center;
-        }
+        
 
             #confirm button {
                 background-color: #48E5DA;
@@ -128,23 +116,12 @@
                 cursor: pointer;
             }
 
-        #confirmadmin button {
-            background-color: #48E5DA;
-            display: inline-block;
-            border-radius: 5px;
-            border: 1px solid #aaa;
-            padding: 5px;
-            text-align: center;
-            width: 80px;
-            cursor: pointer;
-        }
+        
 
             #confirm .message {
-                text-align: left;
+                text-align: center;
             }
-        #confirmadmin .message {
-            text-align: left;
-        }
+       
     </style>
 
 
@@ -179,11 +156,7 @@
 
                 </div>
             </div>
-            <div id="confirmadmin">
-            <div class="message">This feature is not enabled yet!:(</div>
-            <button class="yes">OK</button>
-            </div>
-        </nav> 
+            </nav> 
         
     </header>
 
